@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-one-paper-en"]
+	path = themes/hexo-theme-one-paper-en
+	url = git@github.com:sohalsdr/hexo-theme-one-paper-en
